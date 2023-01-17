@@ -1,0 +1,14 @@
+@charset "UTF-8";
+    body {
+        background-color: aqua;
+    }
+    h1 {
+    color: aquamarine;
+    }
+    h2{
+    color: cornflowerblue;
+    }
+    p{
+    color: goldenrod;
+    text-align: justify;
+    }
